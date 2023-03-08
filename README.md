@@ -39,4 +39,5 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=hobathanh&hide=stars&show_icons=true&theme=tokyonight" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobathanh&layout=compact&theme=tokyonight" />
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=hobathanh&label=Profile%20views&color=1a1b27&style=flat" alt="hobathanh" /> </p>
 </p>
