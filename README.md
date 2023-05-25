@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hobathanh201o@gmail.com)
+  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bathanh.work@gmail.com)
   
 </div>
 
