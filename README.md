@@ -14,10 +14,9 @@
 
 <div align="center"> 
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=hobathanh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=hobathanh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=460)](https://git.io/streak-stats)
 
 </div>
-
 <div align="right" >
     <a href="mailto:bathanh.work@gmail.com">
         <img
