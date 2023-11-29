@@ -18,7 +18,7 @@
 
 </div>
 <div align="right" >
-    <a href="mailto:bathanh.work@gmail.com">
+    <a href="mailto:bathanh.work@gmail.com" style='text-decoration: none;'>
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1024px-Mail_%28iOS%29.svg.png"
             width="30px"
