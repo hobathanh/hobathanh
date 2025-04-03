@@ -5,9 +5,9 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/hobathanh">
     <img 
-      src="https://skillicons.dev/icons?i=java,spring,ts,nest,js,react,docker,git"
+      src="https://skillicons.dev/icons?i=java,spring,postgres,ts,nest,prisma,js,react,docker,git&theme=light"
     />
   </a>
 </p>
