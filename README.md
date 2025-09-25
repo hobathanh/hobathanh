@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/hobathanh">
     <img 
-      src="https://skillicons.dev/icons?i=java,spring,postgres,ts,nest,prisma,js,react,docker,git&theme=light"
+      src="https://skillicons.dev/icons?i=nodejs,ts,js,nest,prisma,express,java,spring,postgres,mongodb,react,docker,git,salesforce&theme=light"
     />
   </a>
 </p>
@@ -17,21 +17,14 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=hobathanh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=460)](https://git.io/streak-stats)
 
 </div>
-<div align="right" >
-    <a href="mailto:bathanh.work@gmail.com" style='text-decoration: none;'>
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1024px-Mail_%28iOS%29.svg.png"
-            width="30px"
-            height=30px"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/hobathanh">
-        <img
-            src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg"
-            width="30px"
-            height="30px"
-        />
-    </a>
-    <p> <img src="https://komarev.com/ghpvc/?username=hobathanh&label=Profile%20views&color=blue&style=flat" alt="hobathanh" /> </p>
+
+<div align="right">
+  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1024px-Mail_%28iOS%29.svg.png" width="30" height="30" />](mailto:bathanh.work@gmail.com)
+[<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" width="30" height="30" />](https://www.linkedin.com/in/thanhhb)
+<br/>
+![Profile views](https://komarev.com/ghpvc/?username=hobathanh&label=Profile%20views&color=blue&style=flat)
+
 </div>
+
 
